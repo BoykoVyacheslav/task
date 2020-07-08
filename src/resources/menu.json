@@ -1,0 +1,34 @@
+{
+  "data": [
+    { "title": "link1" },
+    {
+      "title": "link2",
+      "children": [
+        { "title": "link21" },
+        { "title": "link22" },
+        { "title": "link23" }
+      ]
+    },
+    {
+      "title": "link3",
+      "children": [
+        { "title": "link31" },
+        {
+          "title": "link32", "children": [
+          { "title": "link321" },
+          { "title": "link322" }
+        ]
+        },
+        { "title": "link33" }
+      ]
+    },
+    {
+      "title": "link4",
+      "children": [
+        { "title": "link41" },
+        { "title": "link42" },
+        { "title": "link43" }
+      ]
+    }
+  ]
+}
